@@ -110,6 +110,12 @@ For testing purposes:
 - **Admin**:
   - Username: admin@1234
   - Password: 123
+## Application interface
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9cf1b34d-b07b-461d-b8b5-74825d4a4f32" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/161a2641-ce77-4880-94ac-948594d0162c" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e7b20609-73f3-4f5a-800c-32d56312c948" />
+
+
 
 ## License
 
